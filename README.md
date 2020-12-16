@@ -8,4 +8,4 @@
 
 На данный момент присутствует код с базовым экспериментом и код создания агентов:
 
-code/Gunaev_agents.ipynb, Gunaev_base_experiments.ipynb
+code/Gunaev_agents.ipynb, code/Gunaev_base_experiments.ipynb
